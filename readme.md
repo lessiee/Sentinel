@@ -1,22 +1,450 @@
-<div align="center">🛡️ Sentinel
+🛡️ Sentinel
 
-Next-Generation Proxy Intelligence Engine
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=C4B5A0&center=true&vCenter=true&width=900&lines=Proxy+Analysis+Engine;Adaptive+Performance+Controller;Residential+%7C+Datacenter+%7C+SOCKS+Support;Network+Intelligence+Framework;Designed+for+Professionals" /><br><img src="https://img.shields.io/badge/Python-3.10+-C4B5A0?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Asyncio-Enabled-9B8B7A?style=for-the-badge">
-<img src="https://img.shields.io/badge/Rich-Terminal_UI-7D8C7A?style=for-the-badge">
-<img src="https://img.shields.io/badge/AIOHTTP-Powered-B3A58C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Private-D4AF37?style=for-the-badge">
----
-
-"Every proxy has a story. Sentinel reveals it."
-
-</div>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=C8B69C&center=true&vCenter=true&width=850&lines=Sentinel+Proxy+Intelligence+Engine;Beyond+Availability.;Adaptive+Network+Analysis.;Professional+Proxy+Intelligence." /></p><p align="center"><img src="https://img.shields.io/badge/Python-3.10+-C4B5A0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AsyncIO-Adaptive-9B8B7A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AIOHTTP-Networking-B3A58C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rich-Terminal-7D8C7A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Active-5E6B5C?style=for-the-badge"/></p><p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=C4B5A0&text=Sentinel&fontColor=ffffff&fontAlignY=35&desc=Proxy%20Intelligence%20Beyond%20Availability.&descAlignY=55"/></p>
 ---
 
 ✨ Overview
 
-Sentinel is a high-performance proxy intelligence engine designed to inspect, verify, benchmark, and classify proxy servers using an adaptive asynchronous architecture.
+> Every proxy has a story. Sentinel reveals it.
+
+
+
+Sentinel is a modern Proxy Intelligence Engine built for professionals who require far more than a simple alive/dead checker.
+
+Instead of stopping after a successful connection, Sentinel continues investigating every proxy, collecting dozens of independent metrics before generating a final intelligence profile.
+
+Every proxy becomes a structured dataset rather than a simple IP address.
+
+
+---
+
+🌍 Philosophy
+
+Traditional proxy checkers ask:
+
+> Is the proxy alive?
+
+
+
+Sentinel asks:
+
+🌍 Where is it located?
+
+🛰 What network owns it?
+
+🏢 Which provider supplies it?
+
+🔒 How anonymous is it?
+
+⚡ How fast is it?
+
+📈 How stable is it?
+
+🧠 Can it actually be trusted?
+
+🛡 Is it blacklisted?
+
+📡 Does it leak information?
+
+
+Only after every stage finishes does Sentinel calculate a professional quality score.
+
+
+---
+
+🧠 Intelligence Pipeline
+
+RAW PROXY LIST
+                     │
+                     ▼
+         Protocol Recognition
+                     │
+                     ▼
+          TCP Connectivity Test
+                     │
+                     ▼
+         HTTP Validation Engine
+                     │
+                     ▼
+          Exit IP Discovery
+                     │
+                     ▼
+       Geo Intelligence Lookup
+                     │
+                     ▼
+        Reverse DNS Resolution
+                     │
+                     ▼
+      Provider Identification
+                     │
+                     ▼
+        Privacy Inspection
+                     │
+                     ▼
+       Reliability Benchmark
+                     │
+                     ▼
+      Reputation Verification
+                     │
+                     ▼
+     Adaptive Score Calculation
+                     │
+                     ▼
+      Professional Intelligence Report
+
+
+---
+
+🚀 Features
+
+<table><tr><td width="50%">🌐 Network Intelligence
+
+🌍 Exit IP Discovery
+
+🛰 Gateway Detection
+
+🌐 IPv4 / IPv6
+
+🏙 City Detection
+
+🗺 Region
+
+🕒 Timezone
+
+🏢 ISP
+
+📡 ASN
+
+🔁 Reverse DNS
+
+🌍 Hostname
+
+
+</td><td width="50%">🔒 Privacy Analysis
+
+🟢 Elite Detection
+
+🟡 Anonymous Detection
+
+🔴 Transparent Detection
+
+🔍 Header Leak
+
+🌐 DNS Leak
+
+📡 WebRTC Leak
+
+🛡 Blacklist Lookup
+
+🚫 Abuse Classification
+
+
+</td></tr></table>
+---
+
+⚡ Adaptive Engine
+
+flowchart LR
+
+A[Scan Begins]
+-->B[Measure Success Rate]
+-->C[Adjust Workers]
+-->D[Adjust Timeout]
+-->E[Continue Scanning]
+-->F[Repeat Until Complete]
+
+Sentinel continuously adapts itself while scanning.
+
+Instead of relying on static values, concurrency and timeout automatically evolve according to the behavior of the current proxy list.
+
+
+---
+
+📊 Performance Analysis
+
+Metric	Description
+
+⚡ TCP	Raw socket connection speed
+🌐 HTTP	HTTP response benchmark
+📈 Latency	Average network delay
+📉 Jitter	Response consistency
+🔁 Reliability	Multi-request benchmark
+📊 Stability	Success percentage
+🔒 HTTPS	HTTPS capability
+🚀 HTTP/2	Protocol support
+
+
+
+---
+
+🛰 Infrastructure Detection
+
+Sentinel intelligently classifies infrastructure into categories.
+
+🏠 Residential
+
+🏢 Datacenter
+
+☁ Cloud
+
+🔐 VPN
+
+🧅 TOR Exit
+
+
+---
+
+🧠 Provider Detection
+
+Automatically identifies providers such as
+
+Bright Data
+
+Oxylabs
+
+IPRoyal
+
+Smartproxy
+
+SOAX
+
+PacketStream
+
+ProxyEmpire
+
+NetNut
+
+AWS
+
+Azure
+
+Google Cloud
+
+FloppyData
+
+
+and many more.
+
+
+---
+
+🏆 Sentinel Quality Score
+
+Every proxy receives a score between
+
+0 ─────────────────────────────────────── 100
+Bad     Poor     Fair     Good     Excellent     Legendary
+
+The score combines
+
+✅ Availability
+
+✅ Latency
+
+✅ HTTP Speed
+
+✅ Jitter
+
+✅ Stability
+
+✅ Reliability
+
+✅ HTTPS
+
+✅ HTTP/2
+
+✅ Infrastructure
+
+✅ Provider
+
+✅ Reputation
+
+✅ Reverse DNS
+
+✅ Privacy
+
+✅ Leak Detection
+
+
+---
+
+🌟 Rating System
+
+Rating	Meaning
+
+🟣 Legendary	Exceptional
+🔵 Outstanding	Nearly Perfect
+🟢 Excellent	Professional Grade
+🟢 Very Good	Reliable
+🟡 Good	Recommended
+🟠 Fair	Acceptable
+🟠 Average	Usable
+🔴 Poor	Limited
+⚫ Bad	Not Recommended
+
+
+
+---
+
+📄 Generated Reports
+
+Results/
+│
+├── report.txt
+│      ├── Network Intelligence
+│      ├── Geo Information
+│      ├── Provider
+│      ├── Privacy
+│      ├── Performance
+│      ├── Reliability
+│      ├── Reputation
+│      ├── Final Score
+│      └── Intelligence Summary
+│
+└── alive.txt
+
+
+---
+
+🏗 Architecture
+
+Sentinel
+
+          ┌──────────────────────┐
+          │ Adaptive Controller  │
+          └──────────┬───────────┘
+                     │
+      ┌──────────────┼──────────────┐
+      │              │              │
+      ▼              ▼              ▼
+
+ Network      Proxy Analyzer    Intelligence
+
+      ▼              ▼              ▼
+
+ Reliability   Reputation    Report Engine
+
+      ▼              ▼              ▼
+
+         Professional Output
+
+
+---
+
+🎨 Terminal Experience
+
+✨ Rich Interface
+
+🤎 Neutral Color Palette
+
+📊 Dynamic Progress Bars
+
+🪨 Minimal Design
+
+📦 Rich Panels
+
+⚡ Live Updates
+
+📈 Adaptive Statistics
+
+🧾 Professional Reports
+
+
+---
+
+🛠 Technology Stack
+
+<p align="center"><img src="https://skillicons.dev/icons?i=python,github,vscode"/></p>🐍 Python
+
+⚡ AsyncIO
+
+🌐 AIOHTTP
+
+🧦 AIOHTTP SOCKS
+
+🎨 Rich
+
+🔒 SSL
+
+🌍 Requests
+
+🛰 Socket
+
+📡 DNS Resolution
+
+🧠 Thread Synchronization
+
+
+
+---
+
+📈 Future Vision
+
+Version 2
+│
+├── 📊 Live Dashboard
+├── ☁ Distributed Scanner
+├── 🧠 Machine Learning Scoring
+├── 🌎 Multi-source Intelligence
+├── 📡 ASN Reputation Database
+├── 🔍 Fingerprint Detection
+├── 📄 HTML Reports
+├── 📱 Desktop GUI
+├── 🌐 REST API
+├── 🔌 Plugin System
+└── 🚀 Performance Optimizations
+
+
+---
+
+📊 Repository Statistics
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lessiee&show_icons=true&hide_border=true&theme=transparent"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=lessiee&theme=transparent&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lessiee&layout=compact&hide_border=true&theme=transparent"/></p>
+---
+
+🏅 Development Principles
+
+🤎 Simplicity
+
+⚡ Performance
+
+📈 Scalability
+
+🧠 Adaptive Decision Making
+
+🔒 Privacy Awareness
+
+🌍 Network Intelligence
+
+✨ Elegant User Experience
+
+📊 Accurate Benchmarking
+
+
+---
+
+⚖ Disclaimer
+
+Sentinel is intended exclusively for education, research, infrastructure validation, and authorized security testing.
+
+Users are solely responsible for ensuring that their usage complies with all applicable laws, regulations, and the policies of the systems they interact with.
+
+
+---
+
+<p align="center">🛡️ Sentinel
+
+Proxy Intelligence Beyond Availability.
+
+Designed and engineered with passion.
+
+✨ Turning ordinary proxy lists into meaningful intelligence.
+
+</p><p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=C4B5A0"/></p>Sentinel is a high-performance proxy intelligence engine designed to inspect, verify, benchmark, and classify proxy servers using an adaptive asynchronous architecture.
 
 Unlike traditional proxy checkers that simply determine whether a proxy is alive or dead, Sentinel performs an extensive inspection of each endpoint to build a detailed intelligence profile.
 
